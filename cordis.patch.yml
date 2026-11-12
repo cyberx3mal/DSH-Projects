@@ -1,0 +1,3 @@
+- insert:
+    - id: local-projects-board
+      name: '@local/projects-board'

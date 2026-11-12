@@ -1,0 +1,12 @@
+# Local DSH scratch (asar inspection, browser sessions, screenshots)
+.dsh-plugin-work/
+.dsh-acl-recovery/
+
+# Dependencies and build output
+node_modules/
+dist/
+
+# Logs and editor files
+*.log
+.DS_Store
+Thumbs.db
